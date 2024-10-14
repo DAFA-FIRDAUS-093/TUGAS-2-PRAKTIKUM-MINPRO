@@ -15,6 +15,11 @@
 
 ![Screenshot 2024-10-14 194825](https://github.com/user-attachments/assets/481cbe03-e649-454b-9ecf-9045c835c0ef)
 
-(jika memilih nomor 1, maka admin bisa menambahkan user)
+(jika memilih nomor 2, maka admin bisa melihat user)
+
+(program untuk melihat user)
+
+![Screenshot 2024-10-14 195724](https://github.com/user-attachments/assets/8b5c2d49-d589-4bc4-8771-e98b2882719d)
+
 
 
