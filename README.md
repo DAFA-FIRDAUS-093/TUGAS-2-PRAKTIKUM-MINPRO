@@ -49,6 +49,9 @@ Jika memilih nomor 5, maka admin bisa keluar
 
 FLOWCHART
 
+![Screenshot 2024-10-15 004210](https://github.com/user-attachments/assets/d8914e42-a030-4564-b6ce-51b4881dd0ed)
+
+
 
 
 
