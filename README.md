@@ -9,11 +9,12 @@
 (program untuk admin bisa menambahkan user, melihat user, mengupdate user, menhapus user)
 
 
-(jika memilih nomor 1, maka admin bisa menambahkan user)
+(jika memilih nomor 1, maka admin bisa menambahkan user, dan juga melihat keterangan user apakah boleh untuk mendonorkan darah)
 
 (program untuk menambahkan user)
 
-![Screenshot 2024-10-14 194825](https://github.com/user-attachments/assets/481cbe03-e649-454b-9ecf-9045c835c0ef)
+![Screenshot 2024-10-14 195905](https://github.com/user-attachments/assets/6404e8ee-d299-4239-a65b-eed6a5767f91)
+
 
 (jika memilih nomor 2, maka admin bisa melihat user)
 
