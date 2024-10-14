@@ -38,6 +38,15 @@
 ![Screenshot 2024-10-14 200957](https://github.com/user-attachments/assets/36eb50b8-311e-4fa6-a9d9-5a1617de88c5)
 
 
+(jika memilih nomor 5, maka admin bisa keluar)
+
+(program untuk admin keluar)
+
+![Screenshot 2024-10-14 202444](https://github.com/user-attachments/assets/47931c80-3824-4c8a-9b37-876caf3dde26)
+
+
+
+
 
 
 
