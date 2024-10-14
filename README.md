@@ -4,7 +4,7 @@
 ![Screenshot 2024-10-14 193050](https://github.com/user-attachments/assets/5b66f9d7-c67f-4f16-a95e-d039040622bb)
 
 
-2.Program untuk admin bisa menambahkan user, melihat user, mengupdate user, menghapus user.
+2. Program untuk admin bisa menambahkan user, melihat user, mengupdate user, menghapus user.
 
 ![Screenshot 2024-10-14 193937](https://github.com/user-attachments/assets/c8ff0747-e2f6-418c-8307-e7b5435f16ff)
 
